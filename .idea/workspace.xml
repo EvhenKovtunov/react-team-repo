@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dea962-f3c4-4a68-8124-941e55911ee8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/10-redux-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/10-redux-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/10-redux-ui/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/10-redux-ui/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/src/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/20-bind-action-creators/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/src/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/src/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/30-react-with-redux/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/src/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/src/components/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/src/components/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/40-connect-map-state-to-props/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/src/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/src/components/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/src/components/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/50-map-dispatch-to-props/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/src/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/src/components/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/src/components/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-sandbox/60-map-dispatch-to-props-as-object/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/app/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/header/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/header/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/item-list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/item-list/item-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/item-list/item-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/person-details/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/person-details/person-details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/person-details/person-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/planet-details/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/planet-details/planet-details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/planet-details/planet-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/random-planet/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/random-planet/random-planet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/random-planet/random-planet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/starship-details/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item-add.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/starship-details/starship-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item-add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/components/starship-details/starship-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../star-db/00-basic-project-structure/src/services/swapi-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1U6XDKVNHdQ7Dk7sbURxSnUegU5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.test" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dea962-f3c4-4a68-8124-941e55911ee8" name="Default Changelist" comment="" />
+      <created>1574677897803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574677897803</updated>
+      <workItem from="1574677899046" duration="11927000" />
+      <workItem from="1574757081008" duration="194000" />
+      <workItem from="1574758641001" duration="460000" />
+      <workItem from="1574775275186" duration="1234000" />
+      <workItem from="1574930564257" duration="18665000" />
+      <workItem from="1577187002815" duration="1216000" />
+      <workItem from="1577188666755" duration="18000" />
+      <workItem from="1577188911341" duration="1688000" />
+      <workItem from="1580645137530" duration="1914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577188682747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1577188682747" />
+    <state width="1515" height="206" key="GridCell.Tab.0.bottom" timestamp="1580652988065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580652988065" />
+    <state width="1515" height="206" key="GridCell.Tab.0.center" timestamp="1580652988065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580652988065" />
+    <state width="1515" height="206" key="GridCell.Tab.0.left" timestamp="1580652988065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580652988065" />
+    <state width="1515" height="206" key="GridCell.Tab.0.right" timestamp="1580652988065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580652988065" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1580645176558">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1580645176558" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/index.js</url>
+          <line>98</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
